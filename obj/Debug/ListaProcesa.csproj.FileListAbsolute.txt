@@ -1,0 +1,10 @@
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\bin\Debug\ListaProcesa.exe.config
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\bin\Debug\ListaProcesa.exe
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\bin\Debug\ListaProcesa.pdb
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.csprojAssemblyReference.cache
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.Form1.resources
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.Properties.Resources.resources
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.csproj.GenerateResource.cache
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.csproj.CoreCompileInputs.cache
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.exe
+C:\Users\MaZri\source\repos\ListaProcesa\ListaProcesa\obj\Debug\ListaProcesa.pdb
